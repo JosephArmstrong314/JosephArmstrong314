@@ -20,6 +20,12 @@ This was a small project tutorial to get me started with Web Development, utiliz
 
 For the 2023 CitrusHack at the University of California - Riverside, I teamed up with 3 other CS students to develop a Google Extension for analyzing hotel reviews. My role was to develop a Web Scraper that goes through hotel reviews on Yelp and analyze the sentiment value of the comments. In this project, I learned a variety of Python libraries, most notably BeautifulSoup4. Here is the GitHub Repo: [GitHub Project](https://github.com/JosephArmstrong314/Hotel-Reviews_Web-Scraper/tree/main).
 
+# Experience
+
+## Undergradute Learning Assistant
+
+For my Spring 2020 quarter at UC Santa Barbara, I was an Undergraduate Learning Assistant (ULA) for the CS24: Problem Solving with C++ course under Professor Diba Mirza. My responsibilities included monitoring synchronous Zoom lectures, grading weekly assignments and quizzes, holding office hours, and leading class discussions and labs.
+
 # Contact
 
 My email is [JosephArmstrong314#gmail.com](JosephArmstrong314#gmail.com).
