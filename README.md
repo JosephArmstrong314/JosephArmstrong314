@@ -28,7 +28,7 @@ For my Spring 2020 quarter at UC Santa Barbara, I was an Undergraduate Learning 
 
 # Contact
 
-My email is [JosephArmstrong314#gmail.com](JosephArmstrong314#gmail.com).
+My email is [JosephArmstrong314@gmail.com](JosephArmstrong314@gmail.com).
 
 <!---
 JosephArmstrong314/JosephArmstrong314 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
