@@ -24,7 +24,7 @@ For the 2023 CitrusHack at the University of California - Riverside, I teamed up
 
 ## Undergradute Learning Assistant
 
-For my Spring 2020 quarter at UC Santa Barbara, I was an Undergraduate Learning Assistant (ULA) for the CS24: Problem Solving with C++ course under Professor Diba Mirza. My responsibilities included monitoring synchronous Zoom lectures, grading weekly assignments and quizzes, holding office hours, and leading class discussions and labs.
+For my Spring 2020 quarter at UC Santa Barbara, I was an Undergraduate Learning Assistant (ULA) for the *CS24: Problem Solving with C++* course under Professor Diba Mirza. My responsibilities included monitoring synchronous Zoom lectures, grading weekly assignments and quizzes, holding office hours, and leading class discussions and labs.
 
 # Contact
 
