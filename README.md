@@ -16,10 +16,6 @@ For my CS148 project course, I worked with a team of 7 CS students to develop a 
 
 This is an ongoing project where I develop a visualization tool for search algorithms. Built in React, this tool allows the user to place walls, resize the grid, and visualize the search algorithm. The tool is available here: [Pathfinder](https://josepharmstrong314.github.io/Pathfinder/), and here is the GitHub repo: [GitHub Project}(https://github.com/JosephArmstrong314/Pathfinder)
 
-## Hotel Sentiment Analyzer | Web Scraper
-
-For the 2023 CitrusHack at the University of California - Riverside, I teamed up with 3 other CS students to develop a Google Extension for analyzing hotel reviews. My role was to develop a Web Scraper that goes through hotel reviews on Yelp and analyze the sentiment value of the comments. In this project, I learned a variety of Python libraries, most notably BeautifulSoup4. Here is the GitHub Repo: [GitHub Project](https://github.com/JosephArmstrong314/Hotel-Reviews_Web-Scraper/tree/main).
-
 # Experience
 
 ## Undergradute Learning Assistant
