@@ -1,4 +1,4 @@
-# Hi, I'm JosephArmstrong314
+# Hi, I'm JosephArmstrong314 
 
 I'm a Computer Science graduate from the University of California - Santa Barbara. Here's my [LinkedIn](https://www.linkedin.com/in/joseph-armstrong-31415926535897932384626/).
 
