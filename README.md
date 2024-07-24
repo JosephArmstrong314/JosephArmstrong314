@@ -4,19 +4,19 @@ I'm a Computer Science graduate from the University of California - Santa Barbar
 
 # Projects:
 
-## Analytics Dashboard | Web App
+## Nutrition Tool | Web App
 
-For Tableau's 2023 - 2024 DataDev Hackathon, I teamed up with a Front-End Dev, a Data Analyst, and a UI/UX Designer to construct a proof-of-concept analytics dashboard for a LinkTree-like web app. My role: Back-End Engineer. My job was to design, implement, and integrate a REST API to store analytic data from users visiting our web page. I did this using the Flask framework in Python, connected to a MySQL database, all hosted on pythonanywhere.com. I also tested my API using Postman. After the back-end was complete, I moved on to exploring the Tableau API in order to embed our dashboard within our web page. In this project, I learned Flask, SQLAlchemy, React, Tableau Embedding API, and Postman. The website can be viewed here: [Website](https://jovoight.github.io/tableauhackathon). The front-end code can be viewed here: [Front-End](https://github.com/jovoight/tableauhackathon). The back-end code can be viewed here: [Back-End](https://github.com/JosephArmstrong314/tableauhackathon-linktree-backend). 
+For the Convex 2024 Hackathon, I joined a team of hackers to create a web-based search tool for nutrition data from USDA datasets. My role primarily included accessing the raw USDA data, processing it with Python, loading it into the Convex database, and then writing Convex database queries in TypeScript to trigger on events from the Front End. The data was downloaded from the USDA website here: [USDA Nutrition Data](https://fdc.nal.usda.gov/). Opting to download the data in the JSON format, I used Python to explore, parse, and clean the data from 3.5 GB to only 170 MB, allowing the data to fit within the Convex database capacity. Afterwards, I configured Convex, Vercel, Node.js, and React to all work together. Finally, I implemented Convex queries to establish connectivity between the Front End and the Back End. The web app, deployed on Vercel, is here: [Nutrition App](https://convex-nutriiton.vercel.app/). Here is the github repo for the Data Pipeline: [USDA FDC ETL](https://github.com/JosephArmstrong314/usda-fdc-etl/tree/main). Here is the github repo for the Front End: [GitHub Front End](https://github.com/mashiourcse/convex_nutriiton).
 
 ## Teleformer | Unity 2D Videogame
 
 For my CS148 project course, I worked with a team of 7 CS students to develop a 2D puzzle platformer in Unity. This game requries players to solve puzzles using telekinetic powers to link objects to other objects or the player. This project won the Audience Choice Award, and my contributions to the team included Team Management, Git/GitHub Expert, Agile/Scrum Master, UI Development, and Game Designer. Having the most experience on the team, it was my priviledge to teach the rest of my teammates proper Git/GitHub protocols to maximize code organization, minimize merge conflicts, maintain an organized Kanban board, and facilitate a professional CI/CD pipeline. I had a phenomenal experience with my team Agile operations, including daily Standups, Scrum meetings, Sprint Planning, and Retrospectives. I wish to work with more teams like that in my career. Our game is available on itch.io: [Teleformer](https://qiruhu.itch.io/teleformer). Here is a snippet of our GitHub repo that I imported: [GitHub Project](https://github.com/JosephArmstrong314/Teleformer/tree/main).
 
-## Pathfinder | Web App
-
-This is an ongoing project where I develop a visualization tool for search algorithms. Built in React, this tool allows the user to place walls, resize the grid, and visualize the search algorithm. The tool is available here: [Pathfinder](https://josepharmstrong314.github.io/Pathfinder/), and here is the GitHub repo: [GitHub Project}(https://github.com/JosephArmstrong314/Pathfinder)
-
 # Experience
+
+## Math and Computer Science Tutor | Wyzant
+
+During the Spring of 2024, I tutored for the following subjects: Algebra, Geometry, Pre-Calculus, Calculus (I, II, and III), C++, Python, and ACT Math. I aided the student with homework, projects, exam prep, and customized practice material.
 
 ## Undergradute Learning Assistant
 
