@@ -14,7 +14,7 @@ For my CS148 project course, I worked with a team of 7 CS students to develop a 
 
 # Experience
 
-## Math and Computer Science Tutor | Wyzant
+## Math and Computer Science Tutor
 
 During the Spring of 2024, I tutored for the following subjects: Algebra, Geometry, Pre-Calculus, Calculus (I, II, and III), C++, Python, and ACT Math. I aided the student with homework, projects, exam prep, and customized practice material.
 
